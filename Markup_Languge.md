@@ -1,0 +1,1 @@
+Markup language is an easy editing language.
